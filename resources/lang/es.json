@@ -1,0 +1,21 @@
+{
+	"Login" : "Ingresar",
+	"Logout" : "Salir",
+	"Register" : "Registrarme",
+	"Name" : "Nombre",
+	"E-Mail Address" : "E-Mail",
+	"Password" : "Contraseña",
+	"Confirm Password" : "Confirmar Contraseña",
+	"Remember Me" : "Recordarme",
+	"Forgot Your Password?" : "Olvidó su Contraseña?",
+	"DOCUMENTATION" : "DOCUMENTACIÓN",
+	"NEWS" : "NOTICIAS",
+	"Profile" : "Perfil",
+	"Please Complete your Proyect Profile" : "Por favor complete los datos de su Proyecto",
+	"Car" : "Vehículo",
+	"Next" : "Siguiente",
+	"Country" : "País",
+	"City" : "Ciudad",
+	"Description" : "Descripción",
+	"Site" : "Página Web"
+}
